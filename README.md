@@ -1,4 +1,4 @@
-# Massive Loop | Omni Pen
+# Massive Loop | Omni-Pen
 
 ![Omni-Pen](Omni-Pen.png)
 
